@@ -1,0 +1,1 @@
+This is a sales forecasting model for a given dataset using LightGBM
