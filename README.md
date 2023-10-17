@@ -1,1 +1,1 @@
-This is a sales forecasting model for a given dataset using LightGBM
+This is a sales forecasting model for a given dataset using LightGBM. Please email me if you would like access to the datasets used.
